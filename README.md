@@ -1,3 +1,3 @@
 # Bloggie
-An ASP.NET MVC Core web application for displaying and creating blog posts.
+An ASP.NET Core MVC web application for displaying and creating blog posts.
 
